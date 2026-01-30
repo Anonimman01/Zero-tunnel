@@ -1,0 +1,8 @@
+{
+  "name": "Ghost Window Core",
+  "description": "An elite, local-only AI-driven browser proxy simulation featuring Virtual DOM Projection, hardware spoofing, and analytic poisoning protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
